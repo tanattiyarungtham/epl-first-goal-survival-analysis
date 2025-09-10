@@ -14,7 +14,7 @@ Survival analysis of opening goal times in the English Premier League (2018–20
 See the folder tree in this README.
 
 ## Data
-- Place raw CSVs in `data/raw/`:
+- Place raw CSVs 
   - `england-premier-league-matches-2018-to-2019-stats.csv`
   - `england-premier-league-teams-2018-to-2019-stats.csv`
 
